@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Record System",
+  "description": "A high-performance clinical workspace featuring patient records managed via a secure server-side binary (.dat) file system, alongside real-time conflict-free doctor appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
